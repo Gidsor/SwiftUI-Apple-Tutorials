@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Landmarks
+//  CreatingAndCombiningViews
 //
-//  Created by Vadim Denisov on 11.01.2020.
+//  Created by Vadim Denisov on 12.01.2020.
 //  Copyright © 2020 Vadim Denisov. All rights reserved.
 //
 
